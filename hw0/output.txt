@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Yilin
+   last: Jing
+email: yilin.jing@nyu.edu
+leaderboard: RichieRich
