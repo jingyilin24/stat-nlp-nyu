@@ -1,6 +1,6 @@
 ---
 name:
    first: Yilin
-   last: Jing
+   last: Jing 
 email: yilin.jing@nyu.edu
 leaderboard: RichieRich
